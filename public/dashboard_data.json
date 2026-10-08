@@ -1,0 +1,22 @@
+{
+    "total_records": 130,
+    "normal_records": 97,
+    "degraded_records": 33,
+    "degradation_rate": 25.38,
+    "threshold_ms": 731.25,
+    "frequent_itemsets": 116,
+    "degradation_rules": [
+        {
+            "pattern": "cpu_MEDIUM + workload_stress \u2192 DEGRADED",
+            "support": 10.77,
+            "confidence": 66.67,
+            "lift": 2.63
+        },
+        {
+            "pattern": "request_rate_MEDIUM + workload_stress \u2192 DEGRADED",
+            "support": 13.08,
+            "confidence": 62.96,
+            "lift": 2.48
+        }
+    ]
+}

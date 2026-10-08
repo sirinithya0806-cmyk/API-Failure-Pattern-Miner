@@ -1,0 +1,18 @@
+[
+    {
+        "performance": "NORMAL",
+        "average_response_time": 344.07,
+        "average_request_rate": 29.37,
+        "average_cpu_percent": 2.53,
+        "average_memory_mb": 52.32,
+        "request_count": 97
+    },
+    {
+        "performance": "DEGRADED",
+        "average_response_time": 762.03,
+        "average_request_rate": 43.79,
+        "average_cpu_percent": 4.04,
+        "average_memory_mb": 54.37,
+        "request_count": 33
+    }
+]

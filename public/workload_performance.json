@@ -1,0 +1,26 @@
+[
+    {
+        "workload": "normal",
+        "average_response_time": 20.0,
+        "median_response_time": 20.0,
+        "request_count": 2
+    },
+    {
+        "workload": "moderate",
+        "average_response_time": 82.96,
+        "median_response_time": 84.0,
+        "request_count": 23
+    },
+    {
+        "workload": "heavy",
+        "average_response_time": 280.36,
+        "median_response_time": 292.0,
+        "request_count": 42
+    },
+    {
+        "workload": "stress",
+        "average_response_time": 711.1,
+        "median_response_time": 732.0,
+        "request_count": 63
+    }
+]
